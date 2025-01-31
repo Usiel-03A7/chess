@@ -1,8 +1,25 @@
-# React + Vite
+Chess Game for Dummy Developers
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🏆 About the Project
 
-Currently, two official plugins are available:
+This is a simple chess game built for beginners (dummy developer that it's me) who want to understand how a chess game can be created using React.js, JavaScript, and Tailwind CSS. The project focuses on clean code, modular components, and a beginner-friendly approach.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🛠️ Tech Stack
+
+React.js - For building the user interface.
+
+JavaScript - Core programming language.
+
+Tailwind CSS - For styling and layout.
+
+Yarn - Package manager (you can also use npm).
+
+🚀 Features
+
+🏁 Basic chess rules implementation. (i believe make)
+
+🎨 Responsive design using Tailwind CSS. (this yes i can make)
+
+⚡ Lightweight and easy to understand codebase. (a believe)
+
+🔥 Interactive UI for moving pieces. (maybe)
