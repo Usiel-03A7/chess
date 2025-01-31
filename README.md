@@ -1,4 +1,4 @@
-Chess Game for Dummy Developers
+#Chess Game for Dummy Developers
 
 🏆 About the Project
 
